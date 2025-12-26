@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# PowerPoint temp files
+~$*.pptx
+
+# Python / Anaconda
+.anaconda/
+.android/
+.ipynb_checkpoints/
+__pycache__/
+
+# Par defaut
+.aws
+credentials
